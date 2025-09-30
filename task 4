@@ -1,0 +1,49 @@
+**Name:** PASUNURI HARSHINI
+**Company:** ALFIDO TECH
+**ID:* BS/REG/110320
+**Domain:** Artificial Intelligence Intern
+**Duration:** 45 DAYS
+**Mentor:** Akash Dubey
+
+
+## Overview of the project
+
+## Project : Image Classification
+Train a CNN on the MNIST dataset to classify handwritten digits using TensorFlow.
+
+### Objective
+
+Train a CNN model using TensorFlow to recognize handwritten digits (0 to 9) from the MNIST dataset with high accuracy.
+
+### Key Activities
+
+✔️ Load and preprocess MNIST data (normalize & reshape).
+
+✔️ Build a CNN model with Conv2D, Pooling, Flatten, Dense layers.
+
+✔️ Train and validate the model.
+
+✔️ Evaluate accuracy on test data.
+
+✔️ Visualize predictions and errors.
+
+### Technologies Used
+
+* Python
+
+* TensorFlow / Keras
+
+* MNIST Dataset
+
+* NumPy, Matplotlib (for data & plots)
+
+### Key Insights
+* CNNs work well for image classification.
+
+* Normalization speeds up training.
+
+* Dropout helps reduce overfitting.
+
+* Simple models can achieve >98% accuracy on MNIST.
+
+* Errors often come from confusing digits.
